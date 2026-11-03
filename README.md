@@ -30,63 +30,63 @@
   </tr>
   <tr>
     <td><b>Skill DNA</b><br/>PRIVATE CODE</td>
-    <td>Skill DNA GitHub skill analyzer</td>
+    <td>Analyzes a GitHub profile and turns public work into verifiable skill evidence for recruiters. Useful for job seekers who want to prove real skills from real repositories, and for recruiters who want to check a candidate's work instead of trusting claims alone.</td>
     <td>HTML, CSS, JavaScript, GitHub API</td>
     <td><a href="https://skill-dna-vert.vercel.app">Open live demo →</a></td>
   </tr>
   <tr>
     <td><b>IELTS Pathway</b><br/>PRIVATE CODE</td>
-    <td>Free, independent IELTS preparation site (Bengali/English, dark/light)</td>
+    <td>A free, independent IELTS preparation site with a 60-day planner toward Band 7. Useful for students who want a daily study routine and practice guidance in Bengali and English, with progress saved in their own browser.</td>
     <td>Next.js, Bengali / English</td>
     <td><a href="https://ielts-pathway-fccu.vercel.app">Open live demo →</a></td>
   </tr>
   <tr>
     <td><b>Password Leak Checker</b><br/>PRIVATE CODE</td>
-    <td>Check if a password or email appeared in known data breaches (k-anonymity for passwords, XposedOrNot for emails)</td>
+    <td>Checks whether a password or email has appeared in known data breaches, and rates password strength. Useful before reusing a password or signing up, to find out if your credentials were already exposed and need changing.</td>
     <td>Python, Flask, HTML, Security</td>
     <td><a href="https://password-leak-checker.vercel.app">Open live demo →</a></td>
   </tr>
   <tr>
     <td><b>Lumen Garden</b><br/>PRIVATE CODE</td>
-    <td>Canvas arcade game: defend the garden clearing through waves of enemies, chase combos and beat your best score</td>
+    <td>A canvas arcade game where you defend a garden clearing from waves of enemies, build combos and chase your best score. Useful as a fun, quick browser game — no install needed, just open and play.</td>
     <td>TypeScript, React, Vite, Canvas</td>
     <td><a href="https://lumen-garden-y1ra.vercel.app">Open live demo →</a></td>
   </tr>
   <tr>
     <td><b>HSC Result Checker</b><br/>PRIVATE CODE</td>
-    <td>Personal lightweight HSC Result 2026 checker — SMS + official portals, no personal data stored</td>
+    <td>Shows HSC results and the full marksheet inside one site, using official portals in the background, plus SMS for GPA only. Useful for students who want their result and subject-wise marks without jumping between official sites, and it stores no personal data.</td>
     <td>HTML, Official portals, SMS</td>
     <td><a href="https://hsc-result-checker.vercel.app">Open live demo →</a></td>
   </tr>
   <tr>
     <td><b>SUST OR DIE</b><br/>PRIVATE CODE</td>
-    <td>Personal admission study app for SUST/GST/CoU A-unit tests (60-day plan, alarms, Focus Mode)</td>
+    <td>A personal study app for SUST, GST and CoU A-unit admission tests, with a 60-day plan, one main chapter a day, two hours of English daily, syllabus tracking, alarms and Focus Mode. Useful for admission candidates who need a strict daily routine.</td>
     <td>Kotlin, Android</td>
-    <td>Personal project — not distributed. No public download.</td>
+    <td>Personal project — not distributed. No public download link is available here.</td>
   </tr>
   <tr>
     <td><b>Chattogram Puja</b><br/>PRIVATE CODE</td>
-    <td>চট্টগ্রামের শারদীয় দুর্গাপূজার মণ্ডপ ও সময়সূচির সম্পূর্ণ বাংলা ওয়েব অ্যাপ্লিকেশন</td>
+    <td>A complete Bengali web app for Chattogram's Sharodiya Durga Puja, showing pandals and schedules with a map. Useful for visitors and locals who want to plan puja visits and find pandal locations and timings in one place.</td>
     <td>TypeScript, Next.js, Leaflet, Supabase, Tailwind CSS</td>
     <td>No verified public demo link is listed here.</td>
   </tr>
   <tr>
     <td><b>Akshoraloy</b><br/>PRIVATE CODE</td>
-    <td>Library app — the author's first project, dedicated to his mother</td>
+    <td>The author's first Android project — a library app dedicated to his mother. Useful for keeping books and library items organized in one simple Android app.</td>
     <td>Kotlin, Android, Jetpack Compose</td>
-    <td>Android app — private build. No public download.</td>
+    <td>Android app — private build. No public download link is available here.</td>
   </tr>
   <tr>
     <td><b>HSC Tracker</b><br/>PRIVATE CODE</td>
-    <td>HSC Syllabus Tracker</td>
+    <td>Tracks the HSC syllabus chapter by chapter, so students can see what is done and what is left. Useful for HSC students who want to plan revision and avoid missing chapters before the exam.</td>
     <td>HTML, Education</td>
     <td>No verified public demo link is listed here.</td>
   </tr>
   <tr>
     <td><b>Minimal Launcher</b><br/>PRIVATE CODE</td>
-    <td>Minimalist Android launcher (personal project)</td>
+    <td>A minimalist home-screen launcher for Android that keeps the phone screen clean and simple. Useful for users who want fewer distractions and a calm, fast home screen instead of a cluttered one.</td>
     <td>Android, Launcher, Minimal</td>
-    <td>Android app — private build. No public download.</td>
+    <td>Android app — private build. No public download link is available here.</td>
   </tr>
 </table>
 
