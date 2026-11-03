@@ -62,7 +62,7 @@
     <td><b>SUST OR DIE</b><br/>PRIVATE CODE</td>
     <td>A personal study app for SUST, GST and CoU A-unit admission tests, with a 60-day plan, one main chapter a day, two hours of English daily, syllabus tracking, alarms and Focus Mode. Useful for admission candidates who need a strict daily routine.</td>
     <td>Kotlin, Android</td>
-    <td>Personal project — not distributed. No public download link is available here.</td>
+    <td><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/sust-or-die.apk">Download APK (11.2 MB) ↓</a> — debug APK, not a signed release. App publicly downloadable here; source code stays private.</td>
   </tr>
   <tr>
     <td><b>Chattogram Puja</b><br/>PRIVATE CODE</td>
