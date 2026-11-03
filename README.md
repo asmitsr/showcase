@@ -74,7 +74,7 @@
     <td><b>Akshoraloy</b><br/>PRIVATE CODE</td>
     <td>The author's first Android project — a library app dedicated to his mother. Useful for keeping books and library items organized in one simple Android app.</td>
     <td>Kotlin, Android, Jetpack Compose</td>
-    <td>Android app — private build. No public download link is available here.</td>
+    <td><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk">Download APK (8.5 MB) ↓</a> — first release v1.0. App publicly downloadable here; source code stays private.</td>
   </tr>
   <tr>
     <td><b>HSC Tracker</b><br/>PRIVATE CODE</td>
@@ -86,7 +86,7 @@
     <td><b>Minimal Launcher</b><br/>PRIVATE CODE</td>
     <td>A minimalist home-screen launcher for Android that keeps the phone screen clean and simple. Useful for users who want fewer distractions and a calm, fast home screen instead of a cluttered one.</td>
     <td>Android, Launcher, Minimal</td>
-    <td>Android app — private build. No public download link is available here.</td>
+    <td><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk">Download APK (8.5 MB) ↓</a> — first release v1.0. App publicly downloadable here; source code stays private.</td>
   </tr>
 </table>
 
