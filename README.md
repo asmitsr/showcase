@@ -34,7 +34,7 @@
 | 📋 HSC Result Checker | 🌐 Website | [Open Website →](https://hsc-result-checker.vercel.app) |
 | 🎯 SUST OR DIE | 📱 Android app | [Download APK ↓](https://raw.githubusercontent.com/asmitsr/showcase/main/sust-or-die.apk) |
 | 📖 Akshoraloy | 📱 Android app | [Download APK ↓](https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk) |
-| 📚 HSC Tracker | 📝 Tracker | No public link yet |
+| 📚 HSC Tracker | 🌐 Website | [Open Website →](https://hsc-tracker-three.vercel.app/) |
 | 📱 Minimal Launcher | 📱 Android app | [Download APK ↓](https://raw.githubusercontent.com/asmitsr/showcase/main/minimal-launcher.apk) |
 
 ---
@@ -143,7 +143,7 @@ The author's first Android project — a library app dedicated to his mother. Us
 
 Tracks the HSC syllabus chapter by chapter, so students can see what is done and what is left. Useful for HSC students who want to plan revision and avoid missing chapters before the exam.
 
-![No public link yet](https://img.shields.io/badge/Link-Not_available_yet-9ca3af?style=flat-square)
+[![Open Website](https://img.shields.io/badge/Open_Website-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://hsc-tracker-three.vercel.app/)
 
 ---
 
