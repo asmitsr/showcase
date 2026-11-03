@@ -86,7 +86,7 @@
     <td><b>Minimal Launcher</b><br/>PRIVATE CODE</td>
     <td>A minimalist home-screen launcher for Android that keeps the phone screen clean and simple. Useful for users who want fewer distractions and a calm, fast home screen instead of a cluttered one.</td>
     <td>Android, Launcher, Minimal</td>
-    <td><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/akshoraloy.apk">Download APK (8.5 MB) ↓</a> — first release v1.0. App publicly downloadable here; source code stays private.</td>
+    <td><a href="https://raw.githubusercontent.com/asmitsr/showcase/main/minimal-launcher.apk">Download APK (14.9 MB) ↓</a> — debug APK from the latest successful Actions build. App publicly downloadable here; source code stays private.</td>
   </tr>
 </table>
 
