@@ -116,7 +116,7 @@ A personal study app for SUST, GST and CoU A-unit admission tests, with a 60-day
 
 [![Download APK](https://img.shields.io/badge/Download_APK-22c55e?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/asmitsr/showcase/main/sust-or-die.apk)
 
-> Debug APK (11.2 MB), not a signed release. App publicly downloadable here; source code stays private.
+> Signed release (7.9 MB). App publicly downloadable here; source code stays private.
 
 ---
 
